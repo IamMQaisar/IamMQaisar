@@ -17,5 +17,6 @@ I'm a passionate data enthusiast diving deep into the realms of backend developm
 ## Repositories
 
 - [Cafe Management System](https://github.com/IamMQaisar/Cafe-Management-System): A system for managing operations in a cafe, built with [mention technologies or brief description if you'd like]
+- [Scrapy-BooksToScrap](https://github.com/IamMQaisar/Scrapy-BooksToScrap): A web scraping project using Scrapy to extract book information from a website.
 
 Feel free to explore my repositories and reach out if you have any questions, ideas, or collaboration opportunities!
