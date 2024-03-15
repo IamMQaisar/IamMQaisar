@@ -8,7 +8,7 @@ I'm a passionate data enthusiast diving deep into the realms of backend developm
 - 🌱 Learning is my constant companion on this exciting journey.
 - 💬 Let's connect and collaborate on anything data-related!
 - 😄 Pronouns: He/him
-- 
+  
 ## Get in Touch
 
 - 📫 You can reach me via email at [itisqaisar@gmail.com](mailto:itisqaisar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-qaisar-230782185/).
