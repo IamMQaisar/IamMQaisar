@@ -1,4 +1,5 @@
-<div align='center'><a href="https://github.com/iamMQaisar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2BD&center=true&random=false&width=435&lines=Data+Engineer+%7C+Backend+-+Developer;AWS+GCP+Azure+%7C+Python+Django+Nodejs;Open-Source" alt="Typing SVG" /></a></div><be>
+<div align='center'><a href="https://github.com/iamMQaisar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2BD&center=true&random=false&width=435&lines=Data+Engineer+%7C+Backend+-+Developer;AWS+GCP+Azure+%7C+Python+Django+Nodejs;Open-Source" alt="Typing SVG" /></a></div>
+
 
 # Hi there, I'm Muhammad Qaisar! 👋
 
