@@ -12,7 +12,7 @@ I'm a passionate data enthusiast diving deep into the realms of backend developm
  
 ### Tech Stack
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,scrapy,beautifulsoup,docker,git,githubactions,mysql,nodejs,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman" />
+    <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,nodejs,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman" />
   </div>
   
 ## Get in Touch
