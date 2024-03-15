@@ -2,14 +2,18 @@
 
 # Hi there, I'm MQaisar! 👋
 
-I'm a passionate data enthusiast diving deep into the realms of backend development, data engineering/science, and machine learning. Constantly learning and evolving, I'm currently delving into the world of Backend with Django and Node.js while expanding my expertise in data-related fields.
+I'm a passionate data enthusiast diving deep into the realms of backend development, data engineering/science, and machine learning. Constantly learning and evolving, I'm currently working on the Backend with Django and Node.js while expanding my expertise in data-related fields.
 
 ## About Me
-
+- 👨‍💻 working on Django, Node.js.
 - 👨‍💻 Currently exploring Django, Node.js, Data Engineering, Data Science, and Machine Learning.
 - 🌱 Learning is my constant companion on this exciting journey.
 - 💬 Let's connect and collaborate on anything data-related!
-- 😄 Pronouns: He/him
+ 
+### Tech Stack
+  <div align='center'>
+    <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,scrapy,beautifulsoup,docker,git,githubactions,mysql,nodejs,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman" />
+  </div>
   
 ## Get in Touch
 
