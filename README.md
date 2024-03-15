@@ -1,18 +1,18 @@
 <div align='center'><a href="https://github.com/iamMQaisar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F2F2BD&center=true&random=false&width=435&lines=Data+Engineer+%7C+Backend+-+Developer;AWS+GCP+Azure+%7C+Python+Django+Nodejs;Open-Source" alt="Typing SVG" /></a></div><be>
 
-# Hi there, I'm MQaisar! 👋
+# Hi there, I'm Muhammad Qaisar! 👋
 
-I'm a passionate data enthusiast diving deep into the realms of backend development, data engineering/science, and machine learning. Constantly learning and evolving, I'm currently working on the Backend with Django and Node.js while expanding my expertise in data-related fields.
+I'm currently working on the Backend with Django and Node.js while expanding my expertise in data-related fields. I'm a passionate data enthusiast diving deep into the realms of backend development, data engineering/science, and machine learning. Constantly learning and evolving.
 
 ## About Me
 - 👨‍💻 working on Django, Node.js.
-- 👨‍💻 Currently exploring Django, Node.js, Data Engineering, Data Science, and Machine Learning.
+- 👨‍💻 Currently exploring Data Engineering, Data Science, and Machine Learning.
 - 🌱 Learning is my constant companion on this exciting journey.
 - 💬 Let's connect and collaborate on anything data-related!
  
 ### Tech Stack
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,mongodb,nodejs,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman" />
+    <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,mongodb,nodejs,express,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman,gcp,aws,azure" />
   </div>
   
 ## Get in Touch
