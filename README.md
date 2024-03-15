@@ -11,8 +11,9 @@ I'm currently working on the Backend with Django and Node.js while expanding my 
 - 💬 Let's connect and collaborate on anything data-related!
  
 ### Tech Stack
+
   <div align='center'>
-    <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,mongodb,nodejs,express,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman,gcp,aws,azure" />
+   [![My Skills](https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,mongodb,nodejs,express,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman,aws,gcp,azure&perline=6)](https://skillicons.dev)
   </div>
   
 ## Get in Touch
