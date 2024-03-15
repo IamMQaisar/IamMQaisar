@@ -13,7 +13,7 @@ I'm currently working on the Backend with Django and Node.js while expanding my 
 ### Tech Stack
 
   <div align='center'>
-  <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,mongodb,nodejs,express,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman,aws,gcp,azure&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,js,scala,selenium,docker,git,githubactions,mysql,mongodb,nodejs,express,django,fastapi,flask,react,html,css,bootstrap,linux,bash,postman,aws,gcp,azure&perline=12" />
   </div>
   
 ## Get in Touch
