@@ -22,7 +22,8 @@ I'm currently working on the Backend with Django and Node.js while expanding my 
 - 📫 You can reach me via email at <a href="mailto:itisqaisar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> or connect with me on <a href="https://www.linkedin.com/in/iammqaisar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 ## Repositories
 
-- [Cafe Management System](https://github.com/IamMQaisar/Cafe-Management-System): A desktop applicatoin for managing operations in a cafe, built with C# in Visual Studion.
-- [Scrapy-BooksToScrap](https://github.com/IamMQaisar/Scrapy-BooksToScrap): A web scraping project using Scrapy to extract book information from a website.
+- [Creative Commons](https://github.com/IamMQaisar/quantifying): Proud contributor to the `quantifying` project under Creative Commons (cc). Enhancing open-source innovation.
+- [Cafe Management System](https://github.com/IamMQaisar/Cafe-Management-System): A desktop applicatoin for managing operations in a cafe, built with `C#` in Visual Studion.
+- [Scrapy-BooksToScrap](https://github.com/IamMQaisar/Scrapy-BooksToScrap): A web scraping project using `Scrapy` to extract book information from a website.
 
 Feel free to explore my repositories and reach out if you have any questions, ideas, or collaboration opportunities!
