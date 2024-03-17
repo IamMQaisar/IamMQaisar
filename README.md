@@ -19,7 +19,7 @@ I'm currently working on the Backend with Django and Node.js while expanding my 
   
 ## Get in Touch
 
-- 📫 You can reach me via email at [itisqaisar@gmail.com](mailto:itisqaisar@gmail.com) or connect with me on <a href="https://www.linkedin.com/in/iammqaisar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+- 📫 You can reach me via email at <a href="mailto:itisqaisar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> or connect with me on <a href="https://www.linkedin.com/in/iammqaisar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 ## Repositories
 
 - [Cafe Management System](https://github.com/IamMQaisar/Cafe-Management-System): A desktop applicatoin for managing operations in a cafe, built with C# in Visual Studion.
