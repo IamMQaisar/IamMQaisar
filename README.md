@@ -1,7 +1,7 @@
 <div align='center'><a href="https://github.com/iamMQaisar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=088F8F&center=true&random=false&width=435&lines=Data+Engineer+%7C+Backend+-+Developer;AWS+GCP+Azure+%7C+Python+Django+Nodejs;Open-Source" alt="Typing SVG" /></a></div>
 
 
-# Hi there, I'm $${\color{lightblue}Muhammad \space Qaisar!}$$ 👋
+# Hi there 👋, I'm $${\color{lightblue}Muhammad \space Qaisar}$$
 
 I'm currently working on the Backend with Django and Node.js while expanding my expertise in data-related fields. I'm a passionate data enthusiast diving deep into the realms of backend development, data engineering/science, and machine learning. Constantly learning and evolving.
 
