@@ -23,7 +23,7 @@ I'm currently working on the Backend with Django and Node.js while expanding my 
 ## Repositories
 
 - [Creative Commons](https://github.com/IamMQaisar/quantifying): Proud contributor to the `quantifying` project under Creative Commons (cc). Enhancing open-source innovation.
-- [QCafe--Cafe Management System](https://github.com/IamMQaisar/QCafe---Cafe-Management-System): A desktop applicatoin for managing operations in a cafe, built with `C#` in Visual Studion and MS SQLServer having encrypted(hashed+salted) users' crediantials system.
+- [QCafe - Cafe Management System](https://github.com/IamMQaisar/QCafe---Cafe-Management-System): A desktop application for managing operations in a cafe, built with `C#` in Visual Studio. It utilizes MS SQL Server for database management and features encrypted (hashed + salted) user credentials.
 - [Scrapy-BooksToScrap](https://github.com/IamMQaisar/Scrapy-BooksToScrap): A web scraping project using `Scrapy` to extract book information from a website.
 
 Feel free to explore my repositories and reach out if you have any questions, ideas, or collaboration opportunities!
