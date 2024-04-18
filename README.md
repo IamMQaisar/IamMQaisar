@@ -27,11 +27,4 @@ I'm currently working on the Backend with Django and Node.js while expanding my 
 - [Scrapy-BooksToScrap](https://github.com/IamMQaisar/Scrapy-BooksToScrap): A web scraping project using `Scrapy` to extract book information from a website.
 
 Feel free to explore my repositories and reach out if you have any questions, ideas, or collaboration opportunities!
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IamMQaisar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IamMQaisar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMQaisar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
